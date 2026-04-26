@@ -10,14 +10,14 @@ Click any badge below to open that notebook directly in Google Colab — no setu
 
 ---
 
-### Prequel: Introduction to Linear Regression
+### Intro to ML and Linear Regression
 > Google ML Crash Course — Chicago Taxi Fare Prediction using TensorFlow & Keras
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshaykhanna/learning-complete-ai/blob/main/00_ML_Prequel_Linear_Regression.ipynb)
 
 ---
 
-### Exercise 1: Australian Rainfall Prediction
+### Logistic Regression
 > Binary Classification using Logistic Regression — Will it rain tomorrow?
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshaykhanna/learning-complete-ai/blob/main/ML_Exercise_1_Rainfall_Prediction.ipynb)
