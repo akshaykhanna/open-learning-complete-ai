@@ -1,4 +1,4 @@
-# learning-complete-ai
+# Learning Complete AI
 
 A collection of hands-on Machine Learning exercises using Google Colab.
 
