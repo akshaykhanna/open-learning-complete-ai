@@ -24,4 +24,11 @@ Click any badge below to open that notebook directly in Google Colab — no setu
 
 ---
 
+### Working with data
+> Includes: Working with numerical/categorical data, Datasets, generalization, and overfitting
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshaykhanna/learning-complete-ai/blob/main/Working_with_data.ipynb)
+
+---
+
 To run a notebook interactively in your browser, click its badge above. Alternatively, navigate to the notebook file on GitHub and replace `github.com` in the URL with `colab.research.google.com/github/`.
