@@ -1,4 +1,4 @@
-# Learning Complete AI
+# Open Learning Complete AI
 
 A collection of hands-on Machine Learning exercises using Google Colab.
 
@@ -13,21 +13,21 @@ Click any badge below to open that notebook directly in Google Colab — no setu
 ### Intro to ML and Linear Regression
 > Google ML Crash Course — Chicago Taxi Fare Prediction using TensorFlow & Keras
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshaykhanna/learning-complete-ai/blob/main/00_ML_Prequel_Linear_Regression.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshaykhanna/open-learning-complete-ai/blob/main/00_ML_Prequel_Linear_Regression.ipynb)
 
 ---
 
 ### Logistic Regression
 > Binary Classification using Logistic Regression — Will it rain tomorrow?
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshaykhanna/learning-complete-ai/blob/main/ML_Exercise_1_Rainfall_Prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshaykhanna/open-learning-complete-ai/blob/main/ML_Exercise_1_Rainfall_Prediction.ipynb)
 
 ---
 
 ### Working with data
 > Includes: Working with numerical/categorical data, Datasets, generalization, and overfitting
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshaykhanna/learning-complete-ai/blob/main/Working_with_data.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshaykhanna/open-learning-complete-ai/blob/main/Working_with_data.ipynb)
 
 ---
 
